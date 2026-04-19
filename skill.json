@@ -1,0 +1,20 @@
+{
+  "name": "Financial Education Path Designer",
+  "slug": "financial-education-path-designer",
+  "version": "1.0.0",
+  "description": "Designs financial education paths",
+  "author": "Golden Bean (OpenClaw)",
+  "tags": [
+    "finance",
+    "descriptive",
+    "financial"
+  ],
+  "trigger_keywords": [
+    "financial education path designer",
+    "financial education path designer"
+  ],
+  "language": "en",
+  "outputs": "json",
+  "requires_api": false,
+  "readiness": "stable"
+}
